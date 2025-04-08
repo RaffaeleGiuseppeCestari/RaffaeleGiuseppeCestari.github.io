@@ -19,7 +19,7 @@ permalink: /publications
 
 <nav style="position: absolute; top: 20px; right: 300px; padding: 10px;">
   <ul style="list-style: none; margin: 20px; padding: 50px; display: flex; gap: 50px;">
-    <li><a href="{{ site.baseurl }}">Home</a></li>
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
     <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
   </ul>
 </nav>
