@@ -5,13 +5,13 @@ permalink: https://raffaelegiuseppecestari.github.io/publications
 ---
 
 <style>
-  .profile-img {
+  .page-img {
     position: fixed;
     top: 20px;
     right: 20px;
-    height: 200px;
+    height: 400px;
     width: 200px;
-    border-radius: 50%; /* Optional: makes the picture round */
+    border-radius: 20%; /* Optional: makes the picture round */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }
 </style>
@@ -19,7 +19,7 @@ permalink: https://raffaelegiuseppecestari.github.io/publications
 
 <section id="publications">
   <h2>Publications</h2>
-  <img src="/assets/images/cornell.jpg" alt="Cornell University" class="profile-img">
+  <img src="/assets/images/cornell.jpg" alt="Cornell University" class="page-img">
 
   <ul>
     <li>

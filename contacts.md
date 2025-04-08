@@ -18,7 +18,7 @@ permalink: https://raffaelegiuseppecestari.github.io/contacts
 
 <section id="contact">
   <h2>Contact</h2>
-  <img src="assets/images/cornell.jpg" alt="Cornell University" class="page-img">
+  <img src="/assets/images/cornell.jpg" alt="Cornell University" class="page-img">
   <ul>
     <li>Email: raffaele_cestari@hotmail.com, raffaelegiuseppe.cestari@polimi.it</li>
     <li><a href="https://github.com/RaffaeleGiuseppeCestari">GitHub</a></li>
