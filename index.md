@@ -44,32 +44,38 @@ title: Home
   <h2>Publications</h2>
   <ul>
     <li>
-      <strong>Split-boost neural networks (20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17-19, 2024)</strong><br>
+      <strong>Split-boost neural networks</strong><br>
+      <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17-19, 2024</em><br>
       <em>R. G. Cestari, G. Maroni, L. Cannelli, D. Piga, S. Formentin</em><br>
       <a href="https://doi.org/10.1016/j.ifacol.2024.08.535">[DOI]</a>
     </li>
     <li>
-      <strong>Vertical load estimation in tractors via in-wheel optical sensing (20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17-19, 2024)</strong><br>
+      <strong>Vertical load estimation in tractors via in-wheel optical sensing</strong><br>
+      <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17-19, 2024</em><br>
       <em>R. G. Cestari, A. Lucchini, E. Leati, M. Norgia, S. Formentin, S.M. Savaresi</em><br>
       <a href="https://doi.org/10.1016/j.ifacol.2024.08.584">[DOI]</a>
     </li>
     <li>
-      <strong>Model Predictive Control with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam (2024 IEEE 63rd Conference on Decision and Control (CDC))</strong><br>
+      <strong>Model Predictive Control with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam </strong><br>
+      <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
       <em>R. G. Cestari, S. Longari, S. Zanero, S. Formentin</em><br>
       <a href="https://doi.org/10.1109/CDC56724.2024.10886552">[DOI]</a>
     </li>
     <li>
-      <strong>Scenario-based model predictive control of water reservoir systems (3rd Modeling, Estimation and Control Conference MECC 2023: Lake Tahoe, USA, October 2-5, 2023)</strong><br>
+      <strong>Scenario-based model predictive control of water reservoir systems</strong><br>
+      <em>3rd Modeling, Estimation and Control Conference MECC 2023: Lake Tahoe, USA, October 2-5, 2023</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em><br>
       <a href="https://doi.org/10.1016/j.ifacol.2023.12.043">[DOI]</a>
     </li>
     <li>
-      <strong>Hourly operation of a regulated lake via Model Predictive Control (2nd IFAC Workshop on Control Methods for Water Resource Systems CMWRS 2022: Milano, Italy, 22–23 September 2022)</strong><br>
+      <strong>Hourly operation of a regulated lake via Model Predictive Control</strong><br>
+      <em>2nd IFAC Workshop on Control Methods for Water Resource Systems CMWRS 2022: Milano, Italy, 22–23 September 2022</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em><br>
       <a href="https://doi.org/10.1016/j.ifacol.2022.11.002">[DOI]</a>
     </li>
     <li>
-      <strong>Non-linear multi-objective Bayesian MPC of water reservoir systems (European Journal of Control Volume 83, May 2025)</strong><br>
+      <strong>Non-linear multi-objective Bayesian MPC of water reservoir systems</strong><br>
+      <em>European Journal of Control Volume 83, May 2025</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em><br>
       <a href="https://doi.org/10.1016/j.ejcon.2025.101205">[DOI]</a>
     </li>
@@ -79,7 +85,7 @@ title: Home
 <section id="contact">
   <h2>Contact</h2>
   <ul>
-    <li>Email: raffaele_cestari@hotmail.com</li>
+    <li>Email: raffaele_cestari@hotmail.com, raffaelegiuseppe.cestari@polimi.it</li>
     <li><a href="https://github.com/RaffaeleGiuseppeCestari">GitHub</a></li>
     <li><a href="https://orcid.org/0009-0000-5948-0254">ORCID</a></li>
     <li><a href="www.linkedin.com/in/raffaele-giuseppe-cestari">LinkedIn</a></li>
