@@ -29,6 +29,10 @@ title: Home
   <p><em>Ph.D. cum Laude in Information Technology</em></p>
   <p><em>MSc in Automation and Control Engineering (110/110 cum Laude)</em></p>
   <p><em>Bachelor in Mechanical Engineering</em></p>
+
+  <div style="text-align: center;">
+  <img src="assets/images/magistrale.jpg" alt="Profile picture" style="height: 219.2px; width: 300px;" />
+  </div>
 </header>
 
 <section id="about">
