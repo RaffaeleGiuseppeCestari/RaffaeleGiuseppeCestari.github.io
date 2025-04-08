@@ -7,7 +7,7 @@ permalink: https://raffaelegiuseppecestari.github.io/contacts
 <style>
   .page-img {
     position: fixed;
-    top: 20px;
+    top: 100px;
     right: 20px;
     height: 200px;
     width: 400px;
@@ -17,10 +17,13 @@ permalink: https://raffaelegiuseppecestari.github.io/contacts
 </style>
 
 <section id="contact">
-  <h2>Contact</h2>
   <img src="/assets/images/msc.jpg" alt="Cornell University" class="page-img">
   <ul>
-    <li>Email: raffaele_cestari@hotmail.com, raffaelegiuseppe.cestari@polimi.it</li>
+    <li><strong>Email:</strong> 
+    <ul>
+    <li>raffaele_cestari@hotmail.com</li>
+    <li>raffaelegiuseppe.cestari@polimi.it</li>
+    </ul></li>
     <li><a href="https://github.com/RaffaeleGiuseppeCestari">GitHub</a></li>
     <li><a href="https://orcid.org/0009-0000-5948-0254">ORCID</a></li>
     <li><a href="https://www.linkedin.com/in/raffaele-giuseppe-cestari/">LinkedIn</a></li>
