@@ -8,7 +8,7 @@ title: Home
   .profile-img {
     position: fixed;
     top: 20px;
-    right: 100px;
+    right: 50px;
     height: 200px;
     width: 200px;
     border-radius: 50%; /* Optional: makes the picture round */
@@ -19,6 +19,9 @@ title: Home
 <header>
   <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
   <p><em>Postdoctoral Researcher @Polimi in Machine Learning & Predictive Control</em></p>
+  <p><em>Ph.D. cum Laude in Information Technology</em></p>
+  <p><em>MSc in Automation and Control Engineering (110/110 cum Laude)</em></p>
+  <p><em>Bachelor in Mechanical Engineering (110/110 cum Laude)</em></p>
 </header>
 
 <nav style="position: absolute; top: 20px; right: 300px; padding: 10px;">
