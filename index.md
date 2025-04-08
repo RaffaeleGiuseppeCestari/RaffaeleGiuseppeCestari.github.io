@@ -19,7 +19,7 @@ nav_order: 0
 
 <header>
   <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
-  <p>Postdoctoral Researcher @Polimi in Machine Learning & Predictive Control</p>
+  <p><em>Postdoctoral Researcher @Polimi in Machine Learning & Predictive Control</em></p>
 </header>
 
 <section id="about">
