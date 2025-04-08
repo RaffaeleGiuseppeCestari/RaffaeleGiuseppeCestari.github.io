@@ -13,7 +13,7 @@ permalink: /contacts
 </nav>
 
 <section id="contact">
-  <ul style="gap: 50px">
+  <ul style="padding: 50px">
     <li><strong>Email:</strong> 
     <ul>
     <li>raffaele_cestari@hotmail.com</li>
