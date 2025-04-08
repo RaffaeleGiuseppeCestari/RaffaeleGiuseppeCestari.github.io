@@ -19,6 +19,7 @@ permalink: /contacts
 </style>
 
 <section id="contact">
+<h2>Contacts</h2>
   <ul>
     <li><strong>Email:</strong> 
     <ul>
