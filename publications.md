@@ -19,7 +19,7 @@ permalink: https://raffaelegiuseppecestari.github.io/publications
 
 <section id="publications">
   <h2>Publications</h2>
-  <img src="assets/images/cornell.jpg" alt="Cornell University" class="profile-img">
+  <img src="/assets/images/cornell.jpg" alt="Cornell University" class="profile-img">
 
   <ul>
     <li>
