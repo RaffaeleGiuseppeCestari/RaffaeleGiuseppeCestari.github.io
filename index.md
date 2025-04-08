@@ -9,8 +9,8 @@ title: Home
     position: fixed;
     top: 20px;
     right: 20px;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     border-radius: 50%; /* Optional: makes the picture round */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }
@@ -33,7 +33,8 @@ title: Home
   <p>I had the opportunity to participate in high-level and international scientific conferences where I could present my research in <strong>Milan</strong>, <strong>Boston</strong>, and <strong>Thessaloniki</strong>. For four consecutive editions, I have been the <strong>teaching assistant</strong> for the <strong>Fundamentals of Automatic Control course</strong> at the <strong>Politecnico di Milano</strong>. Teaching an engineering class (bachelor’s) with an audience of about a hundred students has allowed me to master the ability to convey complex topics concisely and effectively.</p>
 
   <p>The doctorate was not only an opportunity to interact with the scientific world. I had the chance to work with several high-level corporate realities. I attended a conference in <strong>Bari (Italy)</strong>, where I presented the study conducted on private mobility to the city authorities. I interacted with professionals from <strong>Tenaris</strong>, <strong>UnipolTech</strong>, <strong>CNH Industrial</strong>, <strong>KPMG</strong>, <strong>Fives Intralogistics</strong>, and <strong>Intesa San Paolo</strong> on various industrial projects I carried out during these years of research/study and work. These tasks allowed me to practice the strong theoretical foundations I have acquired.</p>
-  <p><a href="assets/docs/CV.pdf" target="_blank">Download CV</a></p>
+
+  <p>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!</p>
 </section>
 
 <section id="patents">
