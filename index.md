@@ -9,8 +9,8 @@ title: Home
     position: fixed;
     top: 20px;
     right: 50px;
-    height: 219.2px;
-    width: 300px;
+    height: 238.7px;
+    width: 200px;
     border-radius: 50%; /* Optional: makes the picture round */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }
@@ -33,7 +33,7 @@ title: Home
 
 <section id="about">
   <h2>About Me</h2>
-  <img src="assets/images/magistrale.jpg" alt="Profile picture" class="profile-img">
+  <img src="assets/images/profile.jpg" alt="Profile picture" class="profile-img">
 
   <p><strong>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!</strong></p>
 
