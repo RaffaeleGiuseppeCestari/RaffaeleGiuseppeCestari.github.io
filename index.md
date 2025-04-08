@@ -8,7 +8,7 @@ title: Home
   .profile-img {
     position: fixed;
     top: 20px;
-    right: 20px;
+    right: 100px;
     height: 200px;
     width: 200px;
     border-radius: 50%; /* Optional: makes the picture round */
