@@ -11,38 +11,39 @@ title: Home
 <section id="about">
   <h2>About Me</h2>
   <img src="assets/images/cestari_raffaele.jpeg" alt="Profile picture" style="max-width: 200px;">
-  <p>I took a study path in Engineering because I have been passionate about technology
-    since I was a boy. Initially, I obtained a bachelor’s degree in Mechanical Engineering. Growing up, I
-    had the opportunity to become ardent about the world of Information Technology. This pushed me to
-    undertake a master’s degree in Automation and Control engineering, which I achieved with full marks
-    and honors. In this track, I had the opportunity to enter the world of machine learning and data analysis,
-    for which I felt the need to deepen my knowledge and become an expert. After a short but significant
-    internship experience as a Data Engineer at Exacon - Information Technology (Milan, Italy), where I
-    learned the fundamentals of data engineering (ETL, Spark, Hadoop Ecosystem), I decided to under-
-    take a PhD in Information Technology. In this last phase, I had the opportunity to tackle several machine
-    learning, time-series forecasting, and predictive control problems in different applications (finance, en-
-    ergy) and optimization problems (management of AGV robot fleet and military aircraft fleet) and also big
-    data analytics problems (study of the driving behavior of about 100,000 people on the Italian national
-    territory starting from GPS data). During the PhD, I also had experiences that significantly enhanced my
-    technical and soft skills; I attended and successfully passed a PhD course on Learning-based Predictive
-    Control at ETH Zurich. I also had the privilege of conducting my doctoral research activities at Cornell
-    University in New York for 3 months. This adventure allowed me to interact with engineers and profes-
-    sors of international importance. This experience left an indelible mark on my character. I had the
-    opportunity to participate in high-level and international scientific conferences where I could present my
-    research in Milan, Boston, and Thessaloniki. For four consecutive editions, I have been the teaching
-    assistant for the Fundamentals of Automatic Control course at the Politecnico di Milano. Teaching an
-    engineering class (bachelor’s) with an audience of about a hundred students has allowed me to master
-    the ability to convey complex topics concisely and effectively. The doctorate was not only an opportunity
-    to interact with the scientific world. I had the chance to work with several high-level corporate realities.
-    I attended a conference in Bari (Italy), where I presented the study conducted on private mobility to the
-    city authorities. I interacted with professionals from Tenaris, UnipolTech, CNH Industrial, KPMG, Fives Intralogistics, and Intesa San Paolo on various industrial projects I carried out during these years of research/study and work. 
-    These tasks allowed me to practice the strong theoretical foundations I have acquired.</p>
+  <p>I took a study path in Engineering because I have been passionate about technology since I was a boy. Initially, I obtained a <strong>bachelor’s degree in Mechanical Engineering</strong>. Growing up, I had the opportunity to become ardent about the world of <strong>Information Technology</strong>. This pushed me to undertake a <strong>master’s degree in Automation and Control engineering</strong>, which I achieved with full marks and honors. In this track, I had the opportunity to enter the world of <strong>machine learning</strong> and <strong>data analysis</strong>, for which I felt the need to deepen my knowledge and become an expert.</p>
+  <p>After a short but significant <strong>internship experience</strong> as a <strong>Data Engineer</strong> at <strong>Exacon - Information Technology (Milan, Italy)</strong>, where I learned the fundamentals of <strong>data engineering</strong> (<strong>ETL</strong>, <strong>Spark</strong>, <strong>Hadoop Ecosystem</strong>), I decided to undertake a <strong>PhD in Information Technology</strong>. In this last phase, I had the opportunity to tackle several <strong>machine learning</strong>, <strong>time-series forecasting</strong>, and <strong>predictive control</strong> problems in different applications (<strong>finance</strong>, <strong>energy</strong>) and <strong>optimization problems</strong> (<strong>management of AGV robot fleet</strong> and <strong>military aircraft fleet</strong>) and also <strong>big data analytics</strong> problems (<strong>study of the driving behavior</strong> of about 100,000 people on the <strong>Italian national territory</strong> starting from <strong>GPS data</strong>).</p>
+  <p>During the PhD, I also had experiences that significantly enhanced my technical and soft skills; I attended and successfully passed a <strong>PhD course on Learning-based Predictive Control at ETH Zurich</strong>. I also had the privilege of conducting my doctoral research activities at <strong>Cornell University (New York)</strong> for 3 months. This adventure allowed me to interact with <strong>engineers and professors of international importance</strong>. This experience left an indelible mark on my character.</p>
+  <p>I had the opportunity to participate in high-level and <strong>international scientific conferences</strong> where I could present my research in <strong>Milan</strong>, <strong>Boston</strong>, and <strong>Thessaloniki</strong>. For four consecutive editions, I have been the <strong>teaching assistant</strong> for the <strong>Fundamentals of Automatic Control course</strong> at the <strong>Politecnico di Milano</strong>. Teaching an engineering class (bachelor’s) with an audience of about a hundred students has allowed me to master the ability to convey complex topics concisely and effectively.</p>
+  <p>The doctorate was not only an opportunity to interact with the scientific world. I had the chance to work with several <strong>high-level corporate realities</strong>. I attended a <strong>conference in Bari (Italy)</strong>, where I presented the study conducted on <strong>private mobility</strong> to the city authorities. I interacted with professionals from <strong>Tenaris</strong>, <strong>UnipolTech</strong>, <strong>CNH Industrial</strong>, <strong>KPMG</strong>, <strong>Fives Intralogistics</strong>, and <strong>Intesa San Paolo</strong> on various <strong>industrial projects</strong> I carried out during these years of research/study and work. These tasks allowed me to practice the strong theoretical foundations I have acquired.</p>
   <p><a href="assets/docs/CV.pdf" target="_blank">Download CV</a></p>
+</section>
+
+<section id="patents">
+  <h2>Patents</h2>
+  <ul>
+    <li>
+      <strong>Misurare un carico su un veicolo agricolo</strong><br>
+      <em>2025 European Control Conference (ECC)</em><br>
+      <em>A. Lucchini, S. M. Savaresi, S. Formentin, M. Norgia, R.G. Cestari, F. Cavedo</em><br>
+      <a href="https://hdl.handle.net/11311/1282026">[DOI]</a>
+    </li>
+  </ul>
 </section>
 
 <section id="publications">
   <h2>Publications</h2>
   <ul>
+    <li>
+      <strong>Univariate Hawkes-based cryptocurrency forecasting via LOB data</strong><br>
+      <em>2025 European Control Conference (ECC)</em><br>
+      <em>R. G. Cestari, F. Barchi, R. Busetto, D. Marazzina, S. Formentin</em><br>
+    </li>
+    <li>
+      <strong>Enhancing portfolio covariance estimation: a hybrid prediction approach</strong><br>
+      <em>2025 European Control Conference (ECC)</em><br>
+      <em>R. G. Cestari, S. Chiodini, S. Formentin</em><br>
+    </li>
     <li>
       <strong>Split-boost neural networks</strong><br>
       <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17-19, 2024</em><br>
@@ -56,7 +57,7 @@ title: Home
       <a href="https://doi.org/10.1016/j.ifacol.2024.08.584">[DOI]</a>
     </li>
     <li>
-      <strong>Model Predictive Control with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam </strong><br>
+      <strong>MPC with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam </strong><br>
       <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
       <em>R. G. Cestari, S. Longari, S. Zanero, S. Formentin</em><br>
       <a href="https://doi.org/10.1109/CDC56724.2024.10886552">[DOI]</a>
@@ -78,6 +79,16 @@ title: Home
       <em>European Journal of Control Volume 83, May 2025</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em><br>
       <a href="https://doi.org/10.1016/j.ejcon.2025.101205">[DOI]</a>
+    </li>
+    <li>
+      <strong>Control-oriented modeling for MPC of water reservoir systems</strong><br>
+      <em>International Journal of Control</em><br>
+      <em>R. G. Cestari, A. Castelletti, S. Formentin</em><br>
+    </li>
+    <li>
+      <strong>E-Private Mobility Index: A Novel Tool to Assess BEV Transition Feasibility</strong><br>
+      <em>Sustainability</em><br>
+      <em>S. Strada, R. G. Cestari, A. Pagliaroli, S. M. Savaresi</em><br>
     </li>
   </ul>
 </section>
