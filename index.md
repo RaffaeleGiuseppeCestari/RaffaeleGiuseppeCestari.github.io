@@ -3,6 +3,18 @@ layout: default
 title: Home
 ---
 
+<!-- Embedded CSS -->
+<style>
+  .profile-img {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    max-width: 200px;
+    border-radius: 50%; /* Optional: makes the picture round */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
+  }
+</style>
+
 <header>
   <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
   <p>Postdoctoral Researcher @Polimi in Machine Learning & Predictive Control</p>
