@@ -4,8 +4,23 @@ title: "Publications & Patents"
 permalink: https://raffaelegiuseppecestari.github.io/publications
 ---
 
+<style>
+  .page-img {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    height: 400px;
+    width: 200px;
+    border-radius: 20%; /* Optional: makes the picture round */
+    box-shadow: 2px 2px 10px rgb(0, 0, 0); /* Optional: adds a shadow effect */
+  }
+</style>
+
+
 <section id="publications">
   <h2>Publications</h2>
+  <img src="assets/images/cornell.jpg" alt="Profile picture" class="profile-img">
+
   <ul>
     <li>
       <strong>Univariate Hawkes-based cryptocurrency forecasting via LOB data</strong><br>
@@ -59,3 +74,17 @@ permalink: https://raffaelegiuseppecestari.github.io/publications
     </li>
   </ul>
 </section>
+
+<section id="patents">
+  <h2>Patents</h2>
+  <ul>
+    <li>
+      <a href="https://hdl.handle.net/11311/1282026"><strong>Misurare un carico su un veicolo agricolo</strong></a><br>
+      <em>A. Lucchini, S. M. Savaresi, S. Formentin, M. Norgia, R. G. Cestari, F. Cavedo</em>
+    </li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2025 Raffaele Giuseppe Cestari, Ph.D.</p>
+</footer>
