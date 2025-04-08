@@ -2,10 +2,6 @@
 layout: page
 title: "Contacts"
 permalink: /contacts
-footer: "2025 Raffaele Giuseppe Cestari, Ph.D."
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme 
 ---
 
 <style>
