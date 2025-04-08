@@ -10,7 +10,7 @@ title: Home
     top: 20px;
     right: 50px;
     height: 200px;
-    width: 200px;
+    width: 300px;
     border-radius: 50%; /* Optional: makes the picture round */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }
