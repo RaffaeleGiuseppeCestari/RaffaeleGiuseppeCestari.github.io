@@ -2,6 +2,7 @@
 layout: page
 title: "Publications & Patents"
 permalink: /publications
+footer: "2025 Raffaele Giuseppe Cestari, Ph.D."
 ---
 
 <style>
