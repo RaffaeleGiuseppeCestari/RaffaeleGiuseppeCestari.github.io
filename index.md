@@ -21,8 +21,8 @@ title: Home
   <p><em>Postdoctoral Researcher @Polimi in Machine Learning & Predictive Control</em></p>
 </header>
 
-<nav style="position: absolute; top: 0; right: 100px; padding: 10px;">
-  <ul style="list-style: none; margin: 0; padding: 10px; display: flex; gap: 15px;">
+<nav style="position: absolute; top: 100px; right: 100px; padding: 10px;">
+  <ul style="list-style: none; margin: 20px; padding: 10px; display: flex; gap: 15px;">
     <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
     <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
   </ul>
