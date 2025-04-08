@@ -12,8 +12,14 @@ permalink: /contacts
   </ul>
 </nav>
 
+<style>
+  #contact ul > li {
+    margin-bottom: 1.2em;
+  }
+</style>
+
 <section id="contact">
-  <ul style="padding: 50px">
+  <ul>
     <li><strong>Email:</strong> 
     <ul>
     <li>raffaele_cestari@hotmail.com</li>
