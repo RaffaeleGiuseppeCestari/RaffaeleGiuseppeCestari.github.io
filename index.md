@@ -21,6 +21,15 @@ title: Home
   <p><em>Postdoctoral Researcher @Polimi in Machine Learning & Predictive Control</em></p>
 </header>
 
+<nav>
+  <ul>
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
+    <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
+    <!-- Add more links as needed -->
+  </ul>
+</nav>
+
 <section id="about">
   <h2>About Me</h2>
   <img src="assets/images/profile.png" alt="Profile picture" class="profile-img">
