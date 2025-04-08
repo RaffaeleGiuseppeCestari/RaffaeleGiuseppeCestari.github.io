@@ -23,7 +23,6 @@ title: Home
 
 <nav>
   <ul>
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
     <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
     <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
     <!-- Add more links as needed -->
