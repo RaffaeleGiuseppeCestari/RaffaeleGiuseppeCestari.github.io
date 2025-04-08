@@ -5,13 +5,13 @@ permalink: /publications
 ---
 
 <style>
-  .page-img {
+  .profile-img {
     position: fixed;
-    top: 100px;
-    right: 20px;
-    height: 400px;
-    width: 250px;
-    border-radius: 20%; /* Optional: makes the picture round */
+    top: 20px;
+    right: 100px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%; /* Optional: makes the picture round */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }
 </style>
@@ -26,7 +26,7 @@ permalink: /publications
 
 <section id="publications">
   <h2>Publications</h2>
-  <img src="/assets/images/cornell.jpg" alt="Cornell University" class="page-img">
+  <img src="/assets/images/msc.jpg" alt="Cornell University" class="profile-img">
 
   <ul>
     <li>
