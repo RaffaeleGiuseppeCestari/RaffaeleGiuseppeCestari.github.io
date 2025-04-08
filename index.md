@@ -9,12 +9,19 @@ title: Home
     position: fixed;
     top: 20px;
     right: 50px;
-    height: 238.7px;
-    width: 215px;
+    height: 60px;
+    width: 42px;
     border-radius: 50%; /* Optional: makes the picture round */
     box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }
 </style>
+
+<nav>
+  <ul>
+    <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
+    <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
+  </ul>
+</nav>
 
 <header>
   <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
@@ -23,13 +30,6 @@ title: Home
   <p><em>MSc in Automation and Control Engineering (110/110 cum Laude)</em></p>
   <p><em>Bachelor in Mechanical Engineering</em></p>
 </header>
-
-<nav>
-  <ul>
-    <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
-    <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
-  </ul>
-</nav>
 
 <section id="about">
   <h2>About Me</h2>

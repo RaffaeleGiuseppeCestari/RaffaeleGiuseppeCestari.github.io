@@ -5,8 +5,8 @@ permalink: /contacts
 ---
 
 
-<nav style="position: absolute; top: 20px; right: 300px; padding: 10px;">
-  <ul style="list-style: none; margin: 20px; padding: 50px; display: flex; gap: 50px;">
+<nav>
+  <ul>
     <li><a href="{{ site.baseurl }}/">Home</a></li>
     <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
   </ul>
