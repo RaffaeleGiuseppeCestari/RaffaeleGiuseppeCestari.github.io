@@ -9,8 +9,8 @@ title: Home
     position: fixed;
     top: 20px;
     right: 20px;
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%; /* Optional: makes the picture round */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }
@@ -34,7 +34,7 @@ title: Home
 
   <p>The doctorate was not only an opportunity to interact with the scientific world. I had the chance to work with several high-level corporate realities. I attended a conference in <strong>Bari (Italy)</strong>, where I presented the study conducted on private mobility to the city authorities. I interacted with professionals from <strong>Tenaris</strong>, <strong>UnipolTech</strong>, <strong>CNH Industrial</strong>, <strong>KPMG</strong>, <strong>Fives Intralogistics</strong>, and <strong>Intesa San Paolo</strong> on various industrial projects I carried out during these years of research/study and work. These tasks allowed me to practice the strong theoretical foundations I have acquired.</p>
 
-  <p>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!</p>
+  <p><strong>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!<strong></p>
 </section>
 
 <section id="patents">
@@ -62,40 +62,34 @@ title: Home
       <em>R. G. Cestari, S. Chiodini, S. Formentin</em><br>
     </li>
     <li>
-      <strong>Split-boost neural networks</strong><br>
+      <a href="https://doi.org/10.1016/j.ifacol.2024.08.584"><strong>Split-boost neural networks</strong><br></a>
       <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17-19, 2024</em><br>
       <em>R. G. Cestari, G. Maroni, L. Cannelli, D. Piga, S. Formentin</em><br>
-      <a href="https://doi.org/10.1016/j.ifacol.2024.08.535">[DOI]</a>
     </li>
     <li>
-      <strong>Vertical load estimation in tractors via in-wheel optical sensing</strong><br>
+      <a href="https://doi.org/10.1016/j.ifacol.2024.08.584"><strong>Vertical load estimation in tractors via in-wheel optical sensing</strong><br></a>
       <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17-19, 2024</em><br>
       <em>R. G. Cestari, A. Lucchini, E. Leati, M. Norgia, S. Formentin, S.M. Savaresi</em><br>
-      <a href="https://doi.org/10.1016/j.ifacol.2024.08.584">[DOI]</a>
     </li>
     <li>
-      <strong>MPC with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam </strong><br>
+      <a href="https://doi.org/10.1109/CDC56724.2024.10886552"><strong>MPC with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam </strong><br></a>
       <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
       <em>R. G. Cestari, S. Longari, S. Zanero, S. Formentin</em><br>
-      <a href="https://doi.org/10.1109/CDC56724.2024.10886552">[DOI]</a>
     </li>
     <li>
-      <strong>Scenario-based model predictive control of water reservoir systems</strong><br>
+      <a href="https://doi.org/10.1016/j.ifacol.2023.12.043"><strong>Scenario-based model predictive control of water reservoir systems</strong><br></a>
       <em>3rd Modeling, Estimation and Control Conference MECC 2023: Lake Tahoe, USA, October 2-5, 2023</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em><br>
-      <a href="https://doi.org/10.1016/j.ifacol.2023.12.043">[DOI]</a>
     </li>
     <li>
-      <strong>Hourly operation of a regulated lake via Model Predictive Control</strong><br>
+      <a href="https://doi.org/10.1016/j.ifacol.2022.11.002"><strong>Hourly operation of a regulated lake via Model Predictive Control</strong><br></a>
       <em>2nd IFAC Workshop on Control Methods for Water Resource Systems CMWRS 2022: Milano, Italy, 22–23 September 2022</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em><br>
-      <a href="https://doi.org/10.1016/j.ifacol.2022.11.002">[DOI]</a>
     </li>
     <li>
-      <strong>Non-linear multi-objective Bayesian MPC of water reservoir systems</strong><br>
+      <a href="https://doi.org/10.1016/j.ejcon.2025.101205"><strong>Non-linear multi-objective Bayesian MPC of water reservoir systems</strong><br></a>
       <em>European Journal of Control Volume 83, May 2025</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em><br>
-      <a href="https://doi.org/10.1016/j.ejcon.2025.101205">[DOI]</a>
     </li>
     <li>
       <strong>Control-oriented modeling for MPC of water reservoir systems</strong><br>
