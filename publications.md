@@ -10,7 +10,7 @@ permalink: /publications
     top: 20px;
     right: 20px;
     height: 400px;
-    width: 300px;
+    width: 250px;
     border-radius: 20%; /* Optional: makes the picture round */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }

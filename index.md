@@ -26,6 +26,8 @@ nav_order: 0
   <h2>About Me</h2>
   <img src="assets/images/profile.png" alt="Profile picture" class="profile-img">
 
+  <p><strong>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!</strong></p>
+
   <p>I took a study path in Engineering because I have been passionate about technology since I was a boy. Initially, I obtained a <strong>bachelor’s degree in Mechanical Engineering</strong>. Growing up, I had the opportunity to become ardent about the world of <strong>Information Technology</strong>. This pushed me to undertake a <strong>master’s degree in Automation and Control engineering</strong>, which I achieved with full marks and honors. In this track, I had the opportunity to enter the world of <strong>machine learning</strong> and <strong>data analysis</strong>, for which I felt the need to deepen my knowledge and become an expert.</p>
   <p>After a short but significant internship experience as a <strong>Data Engineer</strong> at <strong>Exacon - Information Technology (Milan, Italy)</strong>, where I learned the fundamentals of <strong>data engineering</strong> (<strong>ETL</strong>, <strong>Spark</strong>, <strong>Hadoop Ecosystem</strong>), I decided to undertake a <strong>PhD in Information Technology</strong>. In this last phase, I had the opportunity to tackle several machine learning, time-series forecasting, and predictive control problems in different applications (finance, energy) and optimization problems (management of AGV robot fleet and aircraft fleet and also big data analytics problems (study of the driving behavior of about 100,000 people on the Italian national territory starting from GPS data).</p>
 
@@ -35,7 +37,6 @@ nav_order: 0
 
   <p>The doctorate was not only an opportunity to interact with the scientific world. I had the chance to work with several high-level corporate realities. I attended a conference in <strong>Bari (Italy)</strong>, where I presented the study conducted on private mobility to the city authorities. I interacted with professionals from <strong>Tenaris</strong>, <strong>UnipolTech</strong>, <strong>CNH Industrial</strong>, <strong>KPMG</strong>, <strong>Fives Intralogistics</strong>, and <strong>Intesa San Paolo</strong> on various industrial projects I carried out during these years of research/study and work. These tasks allowed me to practice the strong theoretical foundations I have acquired.</p>
 
-  <p><strong>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!</strong></p>
 </section>
 
 <footer>
