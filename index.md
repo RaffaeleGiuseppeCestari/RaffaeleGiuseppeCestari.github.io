@@ -44,14 +44,14 @@ title: Home
   <h2>Publications</h2>
   <ul>
     <li>
-      <strong>Title of Paper 1</strong><br>
-      <em>Authors</em><br>
-      <a href="#">[DOI/Publisher Link]</a>
+      <strong>Split-boost neural networks (SYSID 2024, Boston, USA)</strong><br>
+      <em>R. G. Cestari, G. Maroni, L. Cannelli, D. Piga, S. Formentin</em><br>
+      <a href="https://doi.org/10.1016/j.ifacol.2024.08.535">[Publisher Link]</a>
     </li>
     <li>
-      <strong>Title of Paper 2</strong><br>
-      <em>Authors</em><br>
-      <a href="#">[DOI/Publisher Link]</a>
+      <strong>Vertical load estimation in tractors via in-wheel optical sensing</strong><br>
+      <em>R. G. Cestari, A. Lucchini, E. Leati, M. Norgia, S. Formentin, S.M. Savaresi</em><br>
+      <a href="https://doi.org/10.1016/j.ifacol.2024.08.584">[Publisher Link]</a>
     </li>
     <!-- Add more publications here -->
   </ul>
@@ -60,13 +60,13 @@ title: Home
 <section id="contact">
   <h2>Contact</h2>
   <ul>
-    <li>Email: your.email@example.com</li>
-    <li><a href="https://github.com/yourusername">GitHub</a></li>
-    <li><a href="https://orcid.org/0000-0000-0000-0000">ORCID</a></li>
-    <li><a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></li>
+    <li>Email: raffaele_cestari@hotmail.com</li>
+    <li><a href="https://github.com/RaffaeleGiuseppeCestari">GitHub</a></li>
+    <li><a href="https://orcid.org/0009-0000-5948-0254">ORCID</a></li>
+    <li><a href="www.linkedin.com/in/raffaele-giuseppe-cestari">LinkedIn</a></li>
   </ul>
 </section>
 
 <footer>
-  <p>&copy; 2025 Your Name</p>
+  <p>&copy; 2025 Raffaele Giuseppe Cestari, Ph.D.</p>
 </footer>
