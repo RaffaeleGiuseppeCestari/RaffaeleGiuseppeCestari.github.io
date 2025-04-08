@@ -7,7 +7,7 @@ permalink: /publications
 <style>
   .page-img {
     position: fixed;
-    top: 20px;
+    top: 100px;
     right: 20px;
     height: 400px;
     width: 250px;
