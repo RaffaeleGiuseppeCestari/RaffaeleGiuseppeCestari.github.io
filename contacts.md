@@ -22,11 +22,10 @@ permalink: /contacts
   <ul>
     <li><strong>Email:</strong> 
     <ul>
-    <li>raffaele_cestari@hotmail.com</li>
-    <li>raffaelegiuseppe.cestari@polimi.it</li>
+    <li>raffaele_cestari@hotmail.com - raffaelegiuseppe.cestari@polimi.it</li>
     </ul></li>
+    <li><a href="https://www.linkedin.com/in/raffaele-giuseppe-cestari/">LinkedIn</a></li>
     <li><a href="https://github.com/RaffaeleGiuseppeCestari">GitHub</a></li>
     <li><a href="https://orcid.org/0009-0000-5948-0254">ORCID</a></li>
-    <li><a href="https://www.linkedin.com/in/raffaele-giuseppe-cestari/">LinkedIn</a></li>
   </ul>
 </section>

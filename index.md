@@ -18,7 +18,7 @@ title: Home
 
 <header>
   <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
-  <p><em>Postdoctoral Researcher @Polimi in Machine Learning & Predictive Control</em></p>
+  <p><em>Postdoctoral Researcher @Polimi in Data-driven Control for Financial Trading</em></p>
   <p><em>Ph.D. cum Laude in Information Technology</em></p>
   <p><em>MSc in Automation and Control Engineering (110/110 cum Laude)</em></p>
   <p><em>Bachelor in Mechanical Engineering (110/110 cum Laude)</em></p>
