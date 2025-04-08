@@ -41,10 +41,9 @@ title: Home
   <h2>Patents</h2>
   <ul>
     <li>
-      <strong>Misurare un carico su un veicolo agricolo</strong><br>
+      <a href="https://hdl.handle.net/11311/1282026"><strong>Misurare un carico su un veicolo agricolo</strong><br></a>
       <em>2025 European Control Conference (ECC)</em><br>
       <em>A. Lucchini, S. M. Savaresi, S. Formentin, M. Norgia, R.G. Cestari, F. Cavedo</em><br>
-      <a href="https://hdl.handle.net/11311/1282026">[DOI]</a>
     </li>
   </ul>
 </section>
