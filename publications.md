@@ -5,6 +5,12 @@ permalink: /publications
 ---
 
 <style>
+  #publications ul > li {
+    margin-bottom: 1.2em;
+  }
+</style>
+
+<style>
   .profile-img {
     position: fixed;
     top: 20px;
