@@ -33,7 +33,7 @@ title: Home
 
 <section id="about">
   <h2>About Me</h2>
-  <img src="assets/images/profile.png" alt="Profile picture" style="height: 100px; width:100px; right:100px>
+  <img src="assets/images/profile.png" alt="Profile picture" style="height: 100px; width:100px; right:100px>"/>
 
   <p><strong>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!</strong></p>
 
