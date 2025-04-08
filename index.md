@@ -37,7 +37,3 @@ title: Home
   <p>The doctorate was not only an opportunity to interact with the scientific world. I had the chance to work with several high-level corporate realities. I attended a conference in <strong>Bari (Italy)</strong>, where I presented the study conducted on private mobility to the city authorities. I interacted with professionals from <strong>Tenaris</strong>, <strong>UnipolTech</strong>, <strong>CNH Industrial</strong>, <strong>KPMG</strong>, <strong>Fives Intralogistics</strong>, and <strong>Intesa San Paolo</strong> on various industrial projects I carried out during these years of research/study and work. These tasks allowed me to practice the strong theoretical foundations I have acquired.</p>
 
 </section>
-
-<footer>
-  <p>&copy; 2025 Raffaele Giuseppe Cestari, Ph.D.</p>
-</footer>

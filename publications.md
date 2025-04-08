@@ -85,7 +85,3 @@ footer: "2025 Raffaele Giuseppe Cestari, Ph.D."
     </li>
   </ul>
 </section>
-
-<footer>
-  <p>&copy; 2025 Raffaele Giuseppe Cestari, Ph.D.</p>
-</footer>

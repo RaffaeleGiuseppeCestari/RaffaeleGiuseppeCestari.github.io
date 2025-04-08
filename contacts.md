@@ -30,7 +30,3 @@ footer: "2025 Raffaele Giuseppe Cestari, Ph.D."
     <li><a href="https://www.linkedin.com/in/raffaele-giuseppe-cestari/">LinkedIn</a></li>
   </ul>
 </section>
-
-<footer>
-  <p>&copy; 2025 Raffaele Giuseppe Cestari, Ph.D.</p>
-</footer>
