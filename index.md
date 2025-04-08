@@ -12,7 +12,7 @@ title: Home
     height: 238.7px;
     width: 200px;
     border-radius: 50%; /* Optional: makes the picture round */
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
   }
 </style>
 
