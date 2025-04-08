@@ -4,14 +4,39 @@ title: Home
 ---
 
 <header>
-  <h1>Dr. Your Name</h1>
-  <p>Researcher in Machine Learning & Predictive Control</p>
+  <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
+  <p>Post-doc Researcher @Polimi in Machine Learning & Predictive Control</p>
 </header>
 
 <section id="about">
   <h2>About Me</h2>
-  <img src="assets/images/profile.jpg" alt="Profile picture" style="max-width: 200px;">
-  <p>Placeholder biography text. You can add your full bio here. This can include education, research interests, and current positions.</p>
+  <img src="assets/images/cestari_raffaele.jpeg" alt="Profile picture" style="max-width: 200px;">
+  <p>I took a study path in Engineering because I have been passionate about technology
+    since I was a boy. Initially, I obtained a bachelor’s degree in Mechanical Engineering. Growing up, I
+    had the opportunity to become ardent about the world of Information Technology. This pushed me to
+    undertake a master’s degree in Automation and Control engineering, which I achieved with full marks
+    and honors. In this track, I had the opportunity to enter the world of machine learning and data analysis,
+    for which I felt the need to deepen my knowledge and become an expert. After a short but significant
+    internship experience as a Data Engineer at Exacon - Information Technology (Milan, Italy), where I
+    learned the fundamentals of data engineering (ETL, Spark, Hadoop Ecosystem), I decided to under-
+    take a PhD in Information Technology. In this last phase, I had the opportunity to tackle several machine
+    learning, time-series forecasting, and predictive control problems in different applications (finance, en-
+    ergy) and optimization problems (management of AGV robot fleet and military aircraft fleet) and also big
+    data analytics problems (study of the driving behavior of about 100,000 people on the Italian national
+    territory starting from GPS data). During the PhD, I also had experiences that significantly enhanced my
+    technical and soft skills; I attended and successfully passed a PhD course on Learning-based Predictive
+    Control at ETH Zurich. I also had the privilege of conducting my doctoral research activities at Cornell
+    University in New York for 3 months. This adventure allowed me to interact with engineers and profes-
+    sors of international importance. This experience left an indelible mark on my character. I had the
+    opportunity to participate in high-level and international scientific conferences where I could present my
+    research in Milan, Boston, and Thessaloniki. For four consecutive editions, I have been the teaching
+    assistant for the Fundamentals of Automatic Control course at the Politecnico di Milano. Teaching an
+    engineering class (bachelor’s) with an audience of about a hundred students has allowed me to master
+    the ability to convey complex topics concisely and effectively. The doctorate was not only an opportunity
+    to interact with the scientific world. I had the chance to work with several high-level corporate realities.
+    I attended a conference in Bari (Italy), where I presented the study conducted on private mobility to the
+    city authorities. I interacted with professionals from Tenaris, UnipolTech, CNH Industrial, KPMG, Fives Intralogistics, and Intesa San Paolo on various industrial projects I carried out during these years of research/study and work. 
+    These tasks allowed me to practice the strong theoretical foundations I have acquired.</p>
   <p><a href="assets/docs/CV.pdf" target="_blank">Download CV</a></p>
 </section>
 
