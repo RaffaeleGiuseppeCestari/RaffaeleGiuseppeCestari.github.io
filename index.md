@@ -38,16 +38,6 @@ nav_order: 1
   <p><strong>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!</strong></p>
 </section>
 
-<section id="contact">
-  <h2>Contact</h2>
-  <ul>
-    <li>Email: raffaele_cestari@hotmail.com, raffaelegiuseppe.cestari@polimi.it</li>
-    <li><a href="https://github.com/RaffaeleGiuseppeCestari">GitHub</a></li>
-    <li><a href="https://orcid.org/0009-0000-5948-0254">ORCID</a></li>
-    <li><a href="www.linkedin.com/in/raffaele-giuseppe-cestari">LinkedIn</a></li>
-  </ul>
-</section>
-
 <footer>
   <p>&copy; 2025 Raffaele Giuseppe Cestari, Ph.D.</p>
 </footer>
