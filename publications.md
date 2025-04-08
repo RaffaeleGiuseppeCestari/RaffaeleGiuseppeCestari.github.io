@@ -45,7 +45,7 @@ permalink: /publications
       <em>R. G. Cestari, S. Chiodini, S. Formentin</em>
     </li>
     <li>
-      <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.584">Split-boost neural networks</a></strong><br>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.535">Split-boost neural networks</a></strong><br>
       <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
       <em>R. G. Cestari, G. Maroni, L. Cannelli, D. Piga, S. Formentin</em>
     </li>
