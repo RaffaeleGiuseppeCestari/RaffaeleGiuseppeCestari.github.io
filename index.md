@@ -21,7 +21,7 @@ title: Home
   <p><em>Postdoctoral Researcher <a href="https://polimi.it/">@Polimi</a> in Data-driven Control for Financial Trading</em></p>
   <p><em>Ph.D. cum Laude in Information Technology</em></p>
   <p><em>MSc in Automation and Control Engineering (110/110 cum Laude)</em></p>
-  <p><em>Bachelor in Mechanical Engineering (110/110 cum Laude)</em></p>
+  <p><em>Bachelor in Mechanical Engineering</em></p>
 </header>
 
 <nav style="position: absolute; top: 20px; right: 300px; padding: 10px;">
