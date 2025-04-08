@@ -41,7 +41,7 @@ title: Home
   <h2>Patents</h2>
   <ul>
     <li>
-      <strong><a href="https://hdl.handle.net/11311/1282026">Misurare un carico su un veicolo agricolo</a></strong><br>
+      <a href="https://hdl.handle.net/11311/1282026"><strong>Misurare un carico su un veicolo agricolo</strong></a><br>
       <em>A. Lucchini, S. M. Savaresi, S. Formentin, M. Norgia, R. G. Cestari, F. Cavedo</em>
     </li>
   </ul>
