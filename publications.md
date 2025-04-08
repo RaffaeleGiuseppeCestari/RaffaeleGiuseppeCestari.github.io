@@ -12,7 +12,7 @@ permalink: https://raffaelegiuseppecestari.github.io/publications
     height: 400px;
     width: 200px;
     border-radius: 20%; /* Optional: makes the picture round */
-    box-shadow: 2px 2px 10px rgb(0, 0, 0); /* Optional: adds a shadow effect */
+   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);/* Optional: adds a shadow effect */
   }
 </style>
 
