@@ -9,7 +9,7 @@ title: Home
     position: fixed;
     top: 20px;
     right: 50px;
-    height: 200px;
+    height: 219.2px;
     width: 300px;
     border-radius: 50%; /* Optional: makes the picture round */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
@@ -18,7 +18,7 @@ title: Home
 
 <header>
   <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
-  <p><em>Postdoctoral Researcher @Polimi in Data-driven Control for Financial Trading</em></p>
+  <p><em>Postdoctoral Researcher <a href="https://polimi.it/">@Polimi</a> in Data-driven Control for Financial Trading</em></p>
   <p><em>Ph.D. cum Laude in Information Technology</em></p>
   <p><em>MSc in Automation and Control Engineering (110/110 cum Laude)</em></p>
   <p><em>Bachelor in Mechanical Engineering (110/110 cum Laude)</em></p>
@@ -38,9 +38,9 @@ title: Home
   <p><strong>Download my CV <a href="assets/docs/CV.pdf" target="_blank">here</a>!</strong></p>
 
   <p>I took a study path in Engineering because I have been passionate about technology since I was a boy. Initially, I obtained a <strong>bachelor’s degree in Mechanical Engineering</strong>. Growing up, I had the opportunity to become ardent about the world of <strong>Information Technology</strong>. This pushed me to undertake a <strong>master’s degree in Automation and Control engineering</strong>, which I achieved with full marks and honors. In this track, I had the opportunity to enter the world of <strong>machine learning</strong> and <strong>data analysis</strong>, for which I felt the need to deepen my knowledge and become an expert.</p>
-  <p>After a short but significant internship experience as a <strong>Data Engineer</strong> at <strong>Exacon - Information Technology (Milan, Italy)</strong>, where I learned the fundamentals of <strong>data engineering</strong> (<strong>ETL</strong>, <strong>Spark</strong>, <strong>Hadoop Ecosystem</strong>), I decided to undertake a <strong>PhD in Information Technology</strong>. In this last phase, I had the opportunity to tackle several machine learning, time-series forecasting, and predictive control problems in different applications (finance, energy) and optimization problems (management of AGV robot fleet and aircraft fleet and also big data analytics problems (study of the driving behavior of about 100,000 people on the Italian national territory starting from GPS data).</p>
+  <p>After a short but significant internship experience as a <strong>Data Engineer</strong> at <strong><a href="https://www.exacon.it/">Exacon - Information Technology</a> (Milan, Italy)</strong>, where I learned the fundamentals of <strong>data engineering</strong> (<strong>ETL</strong>, <strong>Spark</strong>, <strong>Hadoop Ecosystem</strong>), I decided to undertake a <strong>PhD in Information Technology</strong>. In this last phase, I had the opportunity to tackle several machine learning, time-series forecasting, and predictive control problems in different applications (finance, energy) and optimization problems (management of AGV robot fleet and aircraft fleet and also big data analytics problems (study of the driving behavior of about 100,000 people on the Italian national territory starting from GPS data).</p>
 
-  <p>During the PhD, I also had experiences that significantly enhanced my technical and soft skills; I attended and successfully passed a PhD course on Learning-based Predictive Control at <strong>ETH Zurich</strong>. I also had the privilege of conducting my doctoral research activities at <strong>Cornell University (New York)</strong> for 3 months. This adventure allowed me to interact with engineers and professors of international importance. This experience left an indelible mark on my character.</p>
+  <p>During the PhD, I also had experiences that significantly enhanced my technical and soft skills; I attended and successfully passed a PhD course on Learning-based Predictive Control at <strong>ETH Zurich</strong>. I also had the privilege of conducting my doctoral research activities at <a href="https://www.cornell.edu/"> Cornell University</a> (New York) for 3 months. This adventure allowed me to interact with engineers and professors of international importance. This experience left an indelible mark on my character.</p>
 
   <p>I had the opportunity to participate in high-level and international scientific conferences where I could present my research in <strong>Milan</strong>, <strong>Boston</strong>, and <strong>Thessaloniki</strong>. For four consecutive editions, I have been the <strong>teaching assistant</strong> for the <strong>Fundamentals of Automatic Control course</strong> at the <strong>Politecnico di Milano</strong>. Teaching an engineering class (bachelor’s) with an audience of about a hundred students has allowed me to master the ability to convey complex topics concisely and effectively.</p>
 
