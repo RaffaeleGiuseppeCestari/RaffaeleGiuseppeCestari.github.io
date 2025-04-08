@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications & Patents"
-permalink: https://raffaelegiuseppecestari.github.io/publications
+permalink: /publications
 ---
 
 <style>

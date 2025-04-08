@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contacts"
-permalink: https://raffaelegiuseppecestari.github.io/contacts
+permalink: /contacts
 ---
 
 <style>
