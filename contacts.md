@@ -23,7 +23,7 @@ permalink: https://raffaelegiuseppecestari.github.io/contacts
     <li>Email: raffaele_cestari@hotmail.com, raffaelegiuseppe.cestari@polimi.it</li>
     <li><a href="https://github.com/RaffaeleGiuseppeCestari">GitHub</a></li>
     <li><a href="https://orcid.org/0009-0000-5948-0254">ORCID</a></li>
-    <li><a href="www.linkedin.com/in/raffaele-giuseppe-cestari">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/raffaele-giuseppe-cestari/">LinkedIn</a></li>
   </ul>
 </section>
 
