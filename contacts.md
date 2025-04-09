@@ -8,6 +8,7 @@ permalink: /contacts
 <nav>
   <ul>
     <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/collaborations">Collaborations</a></li>
     <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
   </ul>
 </nav>

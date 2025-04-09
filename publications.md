@@ -10,22 +10,11 @@ permalink: /publications
   }
 </style>
 
-<style>
-  .profile-img {
-    position: fixed;
-    top: 20px;
-    right: 100px;
-    height: 200px;
-    width: 250px;
-    border-radius: 50%; /* Optional: makes the picture round */
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); /* Optional: adds a shadow effect */
-  }
-</style>
-
 
 <nav>
   <ul>
     <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/collaborations">Collaborations</a></li>
     <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
   </ul>
 </nav>
