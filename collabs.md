@@ -18,10 +18,10 @@ permalink: /collaborations
   }
 </style>
 
-<section id="collabs">
+<section id="Collaborations">
 <h2>Contacts</h2>
 <div style="text-align: center;">
-  <img src="assets/images/collab.jpeg" alt="collab" style="height: 133px; width: 200px;" />
+  <img src="assets/images/collab.jpeg" alt="collab" style="height: 266px; width: 400px;" />
 </div>
 
   <ul>
