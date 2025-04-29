@@ -69,8 +69,8 @@ permalink: /publications
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
     </li>
     <li>
-      <strong>E-Private Mobility Index: A Novel Tool to Assess BEV Transition Feasibility</strong><br>
-      <em>Sustainability</em><br>
+      <strong><a href="https://doi.org/10.3390/su17093983">E-Private Mobility Index: A Novel Tool to Assess BEV Transition Feasibility</a></strong><br>
+      <em>Sustainability 2025, 17(9), 3983</em><br>
       <em>S. Strada, R. G. Cestari, A. Pagliaroli, S. M. Savaresi</em>
     </li>
   </ul>
