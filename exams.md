@@ -34,37 +34,37 @@ permalink: /exams
   <li>
       <strong>ADVANCED INTERACTION SKILLS FOR ACADEMIC PROFESSIONALS</strong><br>
       <em>Information Technology, Politecnico di Milano, 2022</em><br>
-      <em>De Bruijn J. A.</em>
+      <em>Prof. De Bruijn J. A.</em>
   </li>
   <li>
       <strong>ADVANCED TOPICS IN DEEP LEARNING: THE RISE OF TRANSFORMERS</strong><br>
       <em>Information Technology, Politecnico di Milano, 2023</em><br>
-      <em>Matteucci M., Boracchi G., Carman M. J., Roveri M.</em>
+      <em>Prof. Matteucci M., Prof. Boracchi G., Prof. Carman M. J., Prof. Roveri M.</em>
   </li>
   <li>
     <strong>LARGE LANGUAGE MODELS: APPLICATIONS, OPPORTUNITIES AND RISKS</strong><br>
     <em>Information Technology, Politecnico di Milano, 2025</em><br>
-    <em>Carman M. J., Brambilla M., Pierri F.</em>
+    <em>Prof. Carman M. J., Prof. Brambilla M., Prof. Pierri F.</em>
   </li>
   <li>
       <strong>LEARNING-BASED PREDICTIVE CONTROL</strong><br>
       <em>EECI International Graduate School on Control, ETH Zurich, 2022</em><br>
-      <em>Zeilinger M., Fagiano L., Hewing L.</em>
+      <em>Prof. Zeilinger M., Prof. Fagiano L., Prof. Hewing L.</em>
   </li>
   <li>
     <strong>MODEL PREDICTIVE CONTROL</strong><br>
     <em>Information Technology, Politecnico di Milano, 2022</em><br>
-    <em>Farina M., Fagiano L., Scattolini R.</em>
+    <em>Prof. Farina M., Prof. Fagiano L., Prof. Scattolini R.</em>
   </li>
   <li>
     <strong>NUMERICAL OPTIMIZATION</strong><br>
     <em>IMT School for Advanced Studies, Lucca, 2022</em><br>
-    <em>Bemporad A.</em>
+    <em>Prof. Bemporad A.</em>
   </li>
   <li>
     <strong>PROJECT MANAGEMENT BASICS</strong><br>
     <em>Information Technology, Politecnico di Milano, 2022</em><br>
-    <em>Fuggetta A.</em>
+    <em>Prof. Fuggetta A.</em>
   </li>
   </ul>
 </section>
@@ -76,78 +76,78 @@ permalink: /exams
   <ul>
   <li>
       <strong>ADVANCED AND MULTIVARIABLE CONTROL</strong><br>
-      <em>30 cum Laude</em><br>
-      <em>Scattolini R.</em>
+      <em>Grade: 30 cum Laude</em><br>
+      <em>Prof. Scattolini R.</em>
   </li>
   <li>
       <strong>AUTOMATION AND CONTROL IN VEHICLES</strong><br>
-      <em>30 cum Laude</em><br>
-      <em>Savaresi S. M.</em>
+      <em>Grade: 30 cum Laude</em><br>
+      <em>Prof. Savaresi S. M.</em>
   </li>
   <li>
       <strong>AUTOMATION AND CONTROL LABORATORY</strong><br>
-      <em>30</em><br>
-      <em>Facchinetti A.</em>
+      <em>Grade: 30</em><br>
+      <em>Prof. Facchinetti A.</em>
   </li>
   <li>
       <strong>CONTROL OF MOBILE ROBOTS</strong><br>
-      <em>25</em><br>
-      <em>Bascetta L., Rocco P.</em>
+      <em>Grade: 25</em><br>
+      <em>Prof. Bascetta L., Prof. Rocco P.</em>
   </li>
   <li>
       <strong>DATA DRIVEN CONTROL SYSTEM DESIGN</strong><br>
-      <em>30 cum Laude</em><br>
-      <em>Garatti S.</em>
+      <em>Grade: 30 cum Laude</em><br>
+      <em>Prof. Garatti S.</em>
   </li>
   <li>
       <strong>DYNAMICS OF ELECTRICAL MACHINES AND DRIVES</strong><br>
-      <em>30</em><br>
-      <em>Castelli Dezza F.</em>
+      <em>Grade: 30</em><br>
+      <em>Prof. Castelli Dezza F.</em>
   </li>
   <li>
     <strong>DYNAMICS OF MECHANICAL SYSTEMS</strong><br>
-    <em>30</em><br>
-    <em>Bruni S.</em>
+    <em>Grade: 30</em><br>
+    <em>Prof. Bruni S.</em>
   </li>
   <li>
       <strong>FONDAMENTI DI AUTOMATICA</strong><br>
-      <em>28</em><br>
-      <em>Tanelli M.</em>
+      <em>Grade: 28</em><br>
+      <em>Prof. Tanelli M.</em>
   </li>
   <li>
     <strong>INTERNET OF THINGS</strong><br>
-    <em>30 cum Laude</em><br>
-    <em>Cesana M.</em>
+    <em>Grade: 30 cum Laude</em><br>
+    <em>Prof. Cesana M.</em>
   </li>
   <li>
     <strong>MACCHINE ELETTRICHE</strong><br>
-    <em>30</em><br>
-    <em>Piegari L.</em>
+    <em>Grade: 30</em><br>
+    <em>Prof. Piegari L.</em>
   </li>
   <li>
     <strong>MODEL IDENTIFICATION AND DATA ANALYSIS</strong><br>
-    <em>24</em><br>
-    <em>Formentin S., Savaresi S. M.</em>
+    <em>Grade: 24</em><br>
+    <em>Prof. Formentin S., Prof. Savaresi S. M.</em>
   </li>
   <li>
     <strong>PERCEPTION, LOCALIZATION AND MAPPING FOR MOBILE ROBOTS</strong><br>
-    <em>30 cum Laude</em><br>
-    <em>Matteucci M.</em>
+    <em>Grade: 30 cum Laude</em><br>
+    <em>Prof. Matteucci M.</em>
   </li>
   <li>
     <strong>POWER ELECTRONICS AND SUPPLIES</strong><br>
-    <em>28</em><br>
-    <em>Mapelli F. L.</em>
+    <em>Grade: 28</em><br>
+    <em>Prof. Mapelli F. L.</em>
   </li>
   <li>
     <strong>PRODUCTION SYSTEMS CONTROL</strong><br>
-    <em>27</em><br>
-    <em>Ferrarini L.</em>
+    <em>Grade: 27</em><br>
+    <em>Prof. Ferrarini L.</em>
   </li>
   <li>
     <strong>SOFTWARE ENGINEERING</strong><br>
-    <em>30 cum Laude</em><br>
-    <em>Rossi M. G.</em>
+    <em>Grade: 30 cum Laude</em><br>
+    <em>Prof. Rossi M. G.</em>
   </li>
   </ul>
 </section>
@@ -159,23 +159,108 @@ permalink: /exams
   <ul>
   <li>
       <strong>ANALISI E GEOMETRIA 1</strong><br>
-      <em>26</em><br>
-      <em>Catino G.</em>
+      <em>Grade: 26</em><br>
+      <em>Prof. Catino G.</em>
   </li>
   <li>
       <strong>ANALISI E GEOMETRIA 2</strong><br>
-      <em>25</em><br>
-      <em>Colombo F.</em>
+      <em>Grade: 25</em><br>
+      <em>Prof. Colombo F.</em>
   </li>
   <li>
       <strong>COSTRUZIONE DI MACCHINE 1</strong><br>
-      <em>28</em><br>
-      <em>Manes A.</em>
+      <em>Grade: 28</em><br>
+      <em>Prof. Manes A.</em>
   </li>
   <li>
-      <strong>COSTRUZIONE DI MACCHINE 1</strong><br>
-      <em>28</em><br>
-      <em>Manes A.</em>
+      <strong>FISICA TECNICA</strong><br>
+      <em>Grade: 25</em><br>
+      <em>Prof. Casalegno A.</em>
+  </li>
+  <li>
+      <strong>FONDAMENTI DI CHIMICA</strong><br>
+      <em>Grade: 25</em><br>
+      <em>Prof. Tessaro D.</em>
+  </li>
+  <li>
+      <strong>FONDAMENTI DI FISICA SPERIMENTALE</strong><br>
+      <em>Grade: 25</em><br>
+      <em>Prof. Ghiringhelli G. C., Prof. Pietralunga S. M.</em>
+  </li>
+  <li>
+      <strong>INFORMATICA</strong><br>
+      <em>Grade: 25</em><br>
+      <em>Prof. Santambrogio M. D.</em>
+  </li>
+  <li>
+      <strong>IMPIANTI DI PRODUZIONE E ORGANIZZAZIONE DI IMPRESA</strong><br>
+      <em>Grade: 19</em><br>
+      <em>Prof. Cagno E., Prof. Fumagalli E. M.</em>
+  </li>
+  <li>
+      <strong>INFORMATICA</strong><br>
+      <em>Grade: 25</em><br>
+      <em>Prof. Santambrogio M. D.</em>
+  </li>
+  <li>
+      <strong>LABORATORIO PROGETTUALE CAD</strong><br>
+      <em>Grade: 23</em><br>
+      <em>Prof. Becattini N.</em>
+  </li>
+  <li>
+      <strong>MACCHINE</strong><br>
+      <em>Grade: 23</em><br>
+      <em>Prof. Dossena V.</em>
+  </li>
+  <li>
+      <strong>MECCANICA APPLICATA ALLE MACCHINE</strong><br>
+      <em>Grade: 24</em><br>
+      <em>Prof. Zasso A.</em>
+  </li>
+  <li>
+      <strong>MECCANICA DEI FLUIDI</strong><br>
+      <em>Grade: 24</em><br>
+      <em>Prof. Berzi D.</em>
+  </li>
+  <li>
+      <strong>MECCANICA DELLE VIBRAZIONI</strong><br>
+      <em>Grade: 22</em><br>
+      <em>Prof. Belloli M.</em>
+  </li>
+  <li>
+      <strong>METALLURGIA E MATERIALI NON METALLICI</strong><br>
+      <em>Grade: 21</em><br>
+      <em>Prof. Barella S.</em>
+  </li>
+  <li>
+      <strong>METODI ANALITICI E NUMERICI PER L'INGEGNERIA</strong><br>
+      <em>Grade: 26</em><br>
+      <em>Prof. Cerutti M.C., Prof. Dedè L.</em>
+  </li>
+  <li>
+      <strong>METODI DI CALCOLO DELLE STRUTTURE</strong><br>
+      <em>Grade: 28</em><br>
+      <em>Prof. Cocchetti G.</em>
+  </li>
+  <li>
+      <strong>METODI DI RAPPRESENTAZIONE TECNICA</strong><br>
+      <em>Grade: 22</em><br>
+      <em>Prof. Girotti A. L.</em>
+  </li>
+  <li>
+      <strong>MISURE MECCANICHE E TERMICHE</strong><br>
+      <em>Grade: 23</em><br>
+      <em>Prof. Saggin B.</em>
+  </li>
+  <li>
+      <strong>PRINCIPI DI INGEGNERIA ELETTRICA</strong><br>
+      <em>Grade: 24</em><br>
+      <em>Prof. Dolara A.</em>
+  </li>
+  <li>
+      <strong>TECNOLOGIA MECCANICA 1</strong><br>
+      <em>Grade: 23</em><br>
+      <em>Prof. Annoni M. P. G.</em>
   </li>
   </ul>
 </section>
