@@ -190,7 +190,7 @@ permalink: /exams
   </li>
   <li>
       <strong>FONDAMENTI DI FISICA SPERIMENTALE</strong><br>
-      <em>Grade: 25</em><br>
+      <em>Grade: 23</em><br>
       <em>Prof. Ghiringhelli G. C., Prof. Pietralunga S. M.</em>
   </li>
   <li>
