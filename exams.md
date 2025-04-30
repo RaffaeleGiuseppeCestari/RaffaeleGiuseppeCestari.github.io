@@ -26,22 +26,22 @@ permalink: /exams
   <ul>
     <li>
       <strong>LARGE LANGUAGE MODELS: APPLICATIONS, OPPORTUNITIES AND RISKS</strong><br>
-      <em>Information Technology Programme, Politecnico di Milano, 2025</em><br>
+      <em>Information Technology, Politecnico di Milano, 2025</em><br>
       <em>Carman Mark James, Brambilla Marco, Pierri Francesco</em>
     </li>
     <li>
       <strong>ADVANCED TOPICS IN DEEP LEARNING: THE RISE OF TRANSFORMERS</strong><br>
-      <em>Information Technology Programme, Politecnico di Milano, 2023</em><br>
+      <em>Information Technology, Politecnico di Milano, 2023</em><br>
       <em>Matteucci Matteo, Boracchi Giacomo, Carman Mark James, Roveri Manuel</em>
     </li>
     <li>
       <strong>MODEL PREDICTIVE CONTROL</strong><br>
-      <em>Information Technology Programme, Politecnico di Milano, 2022</em><br>
+      <em>Information Technology, Politecnico di Milano, 2022</em><br>
       <em>Farina Marcello, Fagiano Lorenzo, Scattolini Riccardo</em>
     </li>
     <li>
       <strong>MODEL PREDICTIVE CONTROL</strong><br>
-      <em>Information Technology Programme, Politecnico di Milano, 2022</em><br>
+      <em>Information Technology, Politecnico di Milano, 2022</em><br>
       <em>Farina Marcello, Fagiano Lorenzo, Scattolini Riccardo</em>
     </li> 
     <li>
@@ -56,12 +56,13 @@ permalink: /exams
     </li>
     <li>
       <strong>PROJECT MANAGEMENT BASICS</strong><br>
-      <em>Information Technology Programme, Politecnico di Milano, 2022</em><br>
+      <em>Information Technology, Politecnico di Milano, 2022</em><br>
       <em>Fuggetta Alfonso</em>
     </li>
      <li>
       <strong>ADVANCED INTERACTION SKILLS FOR ACADEMIC PROFESSIONALS</strong><br>
-      <em>Information Technology Programme, Politecnico di Milano, 2022</em><br>
+      <em>Information Technology, Politecnico di Milano, 2022</em><br>
       <em>De Bruijn Johan Adam</em>
     </li>
+  </ul>
 </section>
