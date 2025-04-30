@@ -69,7 +69,7 @@ permalink: /exams
   </ul>
 </section>
 
-<section id="phd">
+<section id="msc">
   <h2>MSc - Automation and Control Engineering</h2>
   <h3>Politecnico di Milano - 03/2019-07/2021</h3>
 
@@ -149,4 +149,33 @@ permalink: /exams
     <em>30 cum Laude</em><br>
     <em>Rossi M. G.</em>
   </li>
+  </ul>
+</section>
+
+<section id="bachelor">
+  <h2>BSc - Mechanical Engineering</h2>
+  <h3>Politecnico di Milano - 10/2015-03/2019</h3>
+
+  <ul>
+  <li>
+      <strong>ANALISI E GEOMETRIA 1</strong><br>
+      <em>26</em><br>
+      <em>Catino G.</em>
+  </li>
+  <li>
+      <strong>ANALISI E GEOMETRIA 2</strong><br>
+      <em>25</em><br>
+      <em>Colombo F.</em>
+  </li>
+  <li>
+      <strong>COSTRUZIONE DI MACCHINE 1</strong><br>
+      <em>28</em><br>
+      <em>Manes A.</em>
+  </li>
+  <li>
+      <strong>COSTRUZIONE DI MACCHINE 1</strong><br>
+      <em>28</em><br>
+      <em>Manes A.</em>
+  </li>
+  </ul>
 </section>
