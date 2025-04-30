@@ -34,7 +34,8 @@ permalink: /exams
 
 <section id="phd">
   <h2>Ph.D. - Information Technology</h2>
-  <h3>Politecnico di Milano - 11/2021-10/2024</h3>
+  <h3>Politecnico di Milano - 03/03/2025</h3>
+  <h3>Grade: Ph.D. cum Laude</h3>
 
   <ul>
   <li>
@@ -77,7 +78,8 @@ permalink: /exams
 
 <section id="msc">
   <h2>MSc - Automation and Control Engineering</h2>
-  <h3>Politecnico di Milano - 03/2019-07/2021</h3>
+  <h3>Politecnico di Milano - 23/07/2021</h3>
+  <h3>Grade: 110 cum Laude / 110</h3>
 
   <ul>
   <li>
@@ -160,7 +162,8 @@ permalink: /exams
 
 <section id="bachelor">
   <h2>BSc - Mechanical Engineering</h2>
-  <h3>Politecnico di Milano - 10/2015-03/2019</h3>
+  <h3>Politecnico di Milano - 05/03/2019</h3>
+  <h3>Grade: 92 / 110</h3>
 
   <ul>
   <li>
