@@ -197,11 +197,6 @@ permalink: /exams
       <em>Prof. Ghiringhelli G. C., Prof. Pietralunga S. M.</em>
   </li>
   <li>
-      <strong>INFORMATICA</strong><br>
-      <em>Grade: 25</em><br>
-      <em>Prof. Santambrogio M. D.</em>
-  </li>
-  <li>
       <strong>IMPIANTI DI PRODUZIONE E ORGANIZZAZIONE DI IMPRESA</strong><br>
       <em>Grade: 19, 15-01-2018</em><br>
       <em>Prof. Cagno E., Prof. Fumagalli E. M.</em>
