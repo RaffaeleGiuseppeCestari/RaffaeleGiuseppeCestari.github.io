@@ -16,6 +16,12 @@ permalink: /exams
   }
 </style>
 
+<style>
+  #bachelor ul > li {
+    margin-bottom: 1.2em;
+  }
+</style>
+
 
 <nav>
   <ul>
