@@ -28,7 +28,7 @@ permalink: /exams
 
 <section id="phd">
   <h2>Ph.D. - Information Technology</h2>
-  <h1>Politecnico di Milano - 11/2021-10/2024</h1>
+  <h3>Politecnico di Milano - 11/2021-10/2024</h3>
 
   <ul>
   <li>
@@ -71,7 +71,7 @@ permalink: /exams
 
 <section id="phd">
   <h2>MSc - Automation and Control Engineering</h2>
-  <h1>Politecnico di Milano - 03/2019-07/2021</h1>
+  <h3>Politecnico di Milano - 03/2019-07/2021</h3>
 
   <ul>
   <li>
