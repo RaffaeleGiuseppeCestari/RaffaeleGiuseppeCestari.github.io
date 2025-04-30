@@ -7,6 +7,7 @@ permalink: /collaborations
 <nav>
   <ul>
     <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li><a href="{{ site.baseurl }}/exams">Academic Transcript</a></li>
     <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
     <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
   </ul>

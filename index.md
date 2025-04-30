@@ -18,6 +18,7 @@ title: Home
 
 <nav>
   <ul>
+    <li><a href="{{ site.baseurl }}/exams">Academic Transcript</a></li>
     <li><a href="{{ site.baseurl }}/collaborations">Collaborations</a></li>
     <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
     <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
