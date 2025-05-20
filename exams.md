@@ -49,11 +49,6 @@ permalink: /exams
       <em>Prof. Matteucci M., Prof. Boracchi G., Prof. Carman M. J., Prof. Roveri M.</em>
   </li>
   <li>
-    <strong>LARGE LANGUAGE MODELS: APPLICATIONS, OPPORTUNITIES AND RISKS</strong><br>
-    <em>Politecnico di Milano, 2025</em><br>
-    <em>Prof. Carman M. J., Prof. Brambilla M., Prof. Pierri F.</em>
-  </li>
-  <li>
       <strong>LEARNING-BASED PREDICTIVE CONTROL</strong><br>
       <em>EECI International Graduate School on Control, ETH Zurich, 2022</em><br>
       <em>Prof. Zeilinger M., Prof. Fagiano L., Prof. Hewing L.</em>
