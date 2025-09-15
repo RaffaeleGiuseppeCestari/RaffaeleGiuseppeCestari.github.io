@@ -27,7 +27,7 @@ title: Home
 
 <header>
   <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
-  <p><em>Postdoctoral Researcher <a href="https://polimi.it/">@Polimi</a> in Data-driven Control for Financial Trading</em></p>
+  <p><em>AI Engineer <a href="https://www.reply.com/it">@Reply</a></em></p>
   <p><em>Ph.D. cum Laude in Information Technology</em></p>
   <p><em>MSc in Automation and Control Engineering (110/110 cum Laude)</em></p>
   <p><em>Bachelor in Mechanical Engineering</em></p>
