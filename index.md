@@ -27,10 +27,10 @@ title: Home
 
 <header>
   <h1>Raffaele Giuseppe Cestari, Ph.D.</h1>
-  <p><em>AI Engineer <a href="https://www.reply.com/it">@Reply</a></em></p>
-  <p><em>Ph.D. cum Laude in Information Technology</em></p>
-  <p><em>MSc in Automation and Control Engineering (110/110 cum Laude)</em></p>
-  <p><em>Bachelor in Mechanical Engineering</em></p>
+  <p><em>AI Engineer @<a href="https://www.reply.com/it">Reply</a></em></p>
+  <p><em>Ph.D. cum Laude in Information Technology @<a href="https://www.polimi.it/">Polimi</a></em></p>
+  <p><em>MSc in Automation and Control Engineering (110/110 cum Laude) @<a href="https://www.polimi.it/">Polimi</a></em></p>
+  <p><em>Bachelor in Mechanical Engineering @<a href="https://www.polimi.it/">Polimi</a></em></p>
 
   <div style="text-align: center;">
   <img src="assets/images/magistrale.jpg" alt="Profile picture" style="height: 219.2px; width: 300px;" />
