@@ -25,6 +25,11 @@ permalink: /publications
 
   <ul>
     <li>
+      <strong><a href="https://doi.org/10.1080/00207179.2025.2560565">Control-oriented modeling for MPC of water reservoir systems</a></strong><br>
+      <em>International Journal of Control, 1-12, October 2025</em><br>
+      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
+    </li>
+    <li>
       <strong>Univariate Hawkes-based cryptocurrency forecasting via LOB data</strong><br>
       <em>2025 European Control Conference (ECC)</em><br>
       <em>R. G. Cestari, F. Barchi, R. Busetto, D. Marazzina, S. Formentin</em>
@@ -62,11 +67,6 @@ permalink: /publications
     <li>
       <strong><a href="https://doi.org/10.1016/j.ejcon.2025.101205">Non-linear multi-objective Bayesian MPC of water reservoir systems</a></strong><br>
       <em>European Journal of Control, Volume 83, May 2025</em><br>
-      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
-    </li>
-    <li>
-      <strong>Control-oriented modeling for MPC of water reservoir systems</strong><br>
-      <em>International Journal of Control</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
     </li>
     <li>
